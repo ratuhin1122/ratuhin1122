@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610">
+  <rect width="1180" height="610" rx="16" fill="#0A101F"/>
+  <!-- Terminal Header -->
+  <rect width="1180" height="42" rx="16" fill="#0F172A"/>
+  <circle cx="28" cy="21" r="6" fill="#EF4444"/>
+  <circle cx="48" cy="21" r="6" fill="#F59E0B"/>
+  <circle cx="68" cy="21" r="6" fill="#10B981"/>
+  <text x="590" y="26" fill="#94A3B8" font-family="monospace" font-size="14" text-anchor="middle">profile.sh --live</text>
+  
+  <!-- Left Side: Terminal Visual Frame -->
+  <rect x="35" y="70" width="410" height="505" rx="8" fill="#0F172A" stroke="#22D3EE" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="50" y="95" fill="#22D3EE" font-family="monospace" font-size="12" font-weight="bold">VISUAL.MAP</text>
+  
+  <!-- Stylized Terminal Dither Art Placeholder -->
+  <g fill="#A78BFA">
+    <circle cx="240" cy="230" r="65" opacity="0.3"/>
+    <circle cx="240" cy="210" r="45" opacity="0.6"/>
+    <path d="M 140 430 C 140 330, 340 330, 340 430 Z" opacity="0.5"/>
+    <text x="240" y="490" fill="#A78BFA" font-family="monospace" font-size="14" text-anchor="middle">Ruhul Amin Tuhin</text>
+    <text x="240" y="515" fill="#22D3EE" font-family="monospace" font-size="12" text-anchor="middle">[Laravel Developer]</text>
+  </g>
+
+  <!-- Right Side: SYSTEM.INFO Panel -->
+  <g font-family="monospace" font-size="14">
+    <!-- Header Badge -->
+    <rect x="480" y="70" width="80" height="26" rx="13" fill="#064E3B"/>
+    <circle cx="495" cy="83" r="4" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="507" y="88" fill="#10B981" font-size="12" font-weight="bold">LIVE</text>
+    <text x="575" y="88" fill="#22D3EE" font-size="13" font-weight="bold">SYSTEM.INFO</text>
+
+    <!-- Info Lines with Dotted Leaders -->
+    <g fill="#94A3B8">
+      <!-- Subject -->
+      <text x="480" y="140" fill="#22D3EE">Subject</text>
+      <text x="600" y="140" fill="#334155">.........................................</text>
+      <text x="1145" y="140" fill="#F8FAFC" text-anchor="end">Ruhul Amin Tuhin</text>
+
+      <!-- Role -->
+      <text x="480" y="180" fill="#22D3EE">Role</text>
+      <text x="600" y="180" fill="#334155">.........................................</text>
+      <text x="1145" y="180" fill="#F8FAFC" text-anchor="end">Laravel Developer</text>
+
+      <!-- Status -->
+      <text x="480" y="220" fill="#22D3EE">Status</text>
+      <text x="600" y="220" fill="#334155">.........................................</text>
+      <text x="1145" y="220" fill="#10B981" text-anchor="end">Building + Learning + Shipping</text>
+
+      <!-- ToolChain -->
+      <text x="480" y="260" fill="#22D3EE">ToolChain</text>
+      <text x="600" y="260" fill="#334155">.........................................</text>
+      <text x="1145" y="260" fill="#F8FAFC" text-anchor="end">Git, GitHub, VS Code</text>
+
+      <!-- Core.Lang -->
+      <text x="480" y="300" fill="#22D3EE">Core.Lang</text>
+      <text x="600" y="300" fill="#334155">.........................................</text>
+      <text x="1145" y="300" fill="#A78BFA" text-anchor="end">PHP, JavaScript, HTML5, CSS3</text>
+
+      <!-- Core.Frontend -->
+      <text x="480" y="340" fill="#22D3EE">Core.Frontend</text>
+      <text x="600" y="340" fill="#334155">.........................................</text>
+      <text x="1145" y="340" fill="#F8FAFC" text-anchor="end">React, Next.js, Tailwind, Bootstrap</text>
+
+      <!-- Core.Backend -->
+      <text x="480" y="380" fill="#22D3EE">Core.Backend</text>
+      <text x="600" y="380" fill="#334155">.........................................</text>
+      <text x="1145" y="380" fill="#FF2D20" text-anchor="end">PHP, Laravel</text>
+
+      <!-- Grid.Mail -->
+      <text x="480" y="430" fill="#22D3EE">Grid.Mail</text>
+      <text x="600" y="430" fill="#334155">.........................................</text>
+      <text x="1145" y="430" fill="#94A3B8" text-anchor="end">ruhulamintuhin715@gmail.com</text>
+
+      <!-- Grid.LinkedIn -->
+      <text x="480" y="470" fill="#22D3EE">Grid.LinkedIn</text>
+      <text x="600" y="470" fill="#334155">.........................................</text>
+      <text x="1145" y="470" fill="#94A3B8" text-anchor="end">in/ruhul-amin-tuhin-abbabb2aa</text>
+
+      <!-- Grid.Facebook -->
+      <text x="480" y="510" fill="#22D3EE">Grid.Facebook</text>
+      <text x="600" y="510" fill="#334155">.........................................</text>
+      <text x="1145" y="510" fill="#94A3B8" text-anchor="end">r.a.tuhin.982658</text>
+    </g>
+  </g>
+</svg>
