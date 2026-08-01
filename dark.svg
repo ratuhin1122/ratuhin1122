@@ -17,7 +17,7 @@
     <circle cx="240" cy="210" r="45" opacity="0.6"/>
     <path d="M 140 430 C 140 330, 340 330, 340 430 Z" opacity="0.5"/>
     <text x="240" y="490" fill="#A78BFA" font-family="monospace" font-size="14" text-anchor="middle">Ruhul Amin Tuhin</text>
-    <text x="240" y="515" fill="#22D3EE" font-family="monospace" font-size="12" text-anchor="middle">[Laravel Developer]</text>
+    <text x="240" y="515" fill="#22D3EE" font-family="monospace" font-size="12" text-anchor="middle">[Web Developer]</text>
   </g>
 
   <!-- Right Side: SYSTEM.INFO Panel -->
@@ -40,7 +40,7 @@
       <!-- Role -->
       <text x="480" y="180" fill="#22D3EE">Role</text>
       <text x="600" y="180" fill="#334155">.........................................</text>
-      <text x="1145" y="180" fill="#F8FAFC" text-anchor="end">Laravel Developer</text>
+      <text x="1145" y="180" fill="#F8FAFC" text-anchor="end">Web Developer</text>
 
       <!-- Status -->
       <text x="480" y="220" fill="#22D3EE">Status</text>
@@ -55,17 +55,17 @@
       <!-- Core.Lang -->
       <text x="480" y="300" fill="#22D3EE">Core.Lang</text>
       <text x="600" y="300" fill="#334155">.........................................</text>
-      <text x="1145" y="300" fill="#A78BFA" text-anchor="end">PHP, JavaScript, HTML5, CSS3</text>
+      <text x="1145" y="300" fill="#A78BFA" text-anchor="end">PHP, JavaScript, HTML5, CSS3, C++</text>
 
       <!-- Core.Frontend -->
       <text x="480" y="340" fill="#22D3EE">Core.Frontend</text>
       <text x="600" y="340" fill="#334155">.........................................</text>
-      <text x="1145" y="340" fill="#F8FAFC" text-anchor="end">React, Next.js, Tailwind, Bootstrap</text>
+      <text x="1145" y="340" fill="#F8FAFC" text-anchor="end">React, Next.js, Tailwind</text>
 
       <!-- Core.Backend -->
       <text x="480" y="380" fill="#22D3EE">Core.Backend</text>
       <text x="600" y="380" fill="#334155">.........................................</text>
-      <text x="1145" y="380" fill="#FF2D20" text-anchor="end">PHP, Laravel</text>
+      <text x="1145" y="380" fill="#FF2D20" text-anchor="end">PHP, Laravel, Node, Express</text>
 
       <!-- Grid.Mail -->
       <text x="480" y="430" fill="#22D3EE">Grid.Mail</text>
