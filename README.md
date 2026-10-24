@@ -1,3 +1,9 @@
+<div align="center">
+  <h1>Ruhul Amin Tuhin</h1>
+  <p><strong>Backend Developer &amp; Software Creator · <a href="https://github.com/ratuhin1122">@ratuhin1122</a></strong></p>
+  <p>I'm Ruhul Amin Tuhin, the creator and owner of ScreenLaps, Developer Cockpit, and EnvGuard Smart Manager. I build productivity software, developer tools, and backend systems.</p>
+</div>
+
 <!-- Banner Block -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ratuhin1122/ratuhin1122/main/dark.svg">
@@ -13,37 +19,37 @@
   <p><em>Founder, Lead Creator & Owner of the following live software products and developer tools:</em></p>
 </div>
 
-| Product | Role & Ownership | Description | Live Link |
-| :--- | :---: | :--- | :---: |
-| **[ScreenLaps](https://screenlaps.com/)** | `Creator & Owner` | High-resolution screen recording and screenshot capture platform with cloud and local vault storage, annotation tools, and browser extensions. | [🌐 screenlaps.com](https://screenlaps.com/) |
-| **[Developer Cockpit](https://developer-cockpit-website.vercel.app/)** | `Creator & Owner` | High-performance desktop developer workspace for Windows unifying modern ConPTY terminal, Git suite, Docker workspace, and real-time port diagnostics. | [🌐 developer-cockpit](https://developer-cockpit-website.vercel.app/) |
-| **[EnvGuard Smart Manager](https://open-vsx.org/extension/Tuhin1122/envguardsmartmanager)** | `Creator & Owner` | Framework-agnostic environment variable manager and security auditor for VS Code & Open VSX, featuring secret detection across git history and working trees. | [📦 Open VSX Extension](https://open-vsx.org/extension/Tuhin1122/envguardsmartmanager) |
+<table>
+  <tr>
+    <td>
+      <h3>🎬 <a href="https://screenlaps.com/">ScreenLaps</a></h3>
+      <p><img src="https://img.shields.io/badge/SCREEN_CAPTURE_%26_PRODUCTIVITY-2563EB?style=flat-square" alt="Screen capture and productivity" /> &nbsp; <code>Creator &amp; Owner</code></p>
+      <p>High-resolution screen recording and screenshot capture platform with cloud and local vault storage, annotation tools, and browser extensions.</p>
+      <p><strong>Record &amp; capture</strong> &nbsp;·&nbsp; <strong>Annotate &amp; edit</strong> &nbsp;·&nbsp; <strong>Store &amp; share</strong></p>
+      <a href="https://screenlaps.com/"><img src="https://img.shields.io/badge/Explore_ScreenLaps_%E2%86%97-2563EB?style=for-the-badge" alt="Explore ScreenLaps by Ruhul Amin Tuhin" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>⌘ <a href="https://developer-cockpit-website.vercel.app/">Developer Cockpit</a></h3>
+      <p><img src="https://img.shields.io/badge/WINDOWS_DEVELOPER_WORKSPACE-7C3AED?style=flat-square" alt="Windows developer workspace" /> &nbsp; <code>Creator &amp; Owner</code></p>
+      <p>High-performance desktop developer workspace for Windows unifying modern ConPTY terminal, Git suite, Docker workspace, and real-time port diagnostics.</p>
+      <p><strong>Multi-tab terminal</strong> &nbsp;·&nbsp; <strong>Git &amp; Docker</strong> &nbsp;·&nbsp; <strong>Port diagnostics</strong></p>
+      <a href="https://developer-cockpit-website.vercel.app/"><img src="https://img.shields.io/badge/Explore_Developer_Cockpit_%E2%86%97-7C3AED?style=for-the-badge" alt="Explore Developer Cockpit by Ruhul Amin Tuhin" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🛡️ <a href="https://open-vsx.org/extension/Tuhin1122/envguardsmartmanager">EnvGuard Smart Manager</a></h3>
+      <p><img src="https://img.shields.io/badge/VS_CODE_%26_OPEN_VSX_EXTENSION-059669?style=flat-square" alt="VS Code and Open VSX extension" /> &nbsp; <code>Creator &amp; Owner</code></p>
+      <p>Framework-agnostic environment variable manager and security auditor for VS Code &amp; Open VSX, featuring secret detection across git history and working trees.</p>
+      <p><strong>Environment management</strong> &nbsp;·&nbsp; <strong>Secret detection</strong> &nbsp;·&nbsp; <strong>Schema validation</strong></p>
+      <a href="https://open-vsx.org/extension/Tuhin1122/envguardsmartmanager"><img src="https://img.shields.io/badge/View_on_Open_VSX_%E2%86%97-059669?style=for-the-badge" alt="View EnvGuard Smart Manager by Ruhul Amin Tuhin on Open VSX" /></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-<details open>
-<summary><b>🔍 Detailed Product Information & Proof of Ownership</b></summary>
-<br/>
-
-- **[ScreenLaps](https://screenlaps.com/)**
-  - **Ownership:** Created, owned, and architected by **Ruhul Amin Tuhin** ([@ratuhin1122](https://github.com/ratuhin1122)).
-  - **Category:** Screen Recording, Screenshot Capture & Productivity Platform
-  - **URL:** [https://screenlaps.com/](https://screenlaps.com/)
-  - **Key Highlights:** Capture, edit, and share screen recordings & screenshots; cloud storage + local vault; built-in video converter and annotation suite.
-
-- **[Developer Cockpit](https://developer-cockpit-website.vercel.app/)**
-  - **Ownership:** Created, owned, and architected by **Ruhul Amin Tuhin** ([@ratuhin1122](https://github.com/ratuhin1122)).
-  - **Category:** Unified Native Windows Developer Workspace
-  - **URL:** [https://developer-cockpit-website.vercel.app/](https://developer-cockpit-website.vercel.app/)
-  - **Key Highlights:** ConPTY/xterm.js multi-tab terminal, visual SVG Git graph, Docker container suite, Win32 process port monitor, and plugin system.
-
-- **[EnvGuard - Environment Smart Manager](https://open-vsx.org/extension/Tuhin1122/envguardsmartmanager)**
-  - **Ownership:** Created, owned, and published by **Ruhul Amin Tuhin** ([@ratuhin1122](https://github.com/ratuhin1122)).
-  - **Category:** Developer Tooling & Security Extension (VS Code / Open VSX)
-  - **URL:** [https://open-vsx.org/extension/Tuhin1122/envguardsmartmanager](https://open-vsx.org/extension/Tuhin1122/envguardsmartmanager)
-  - **Key Highlights:** Environment configuration parsing, secret leak prevention across working trees & git history, schema validation, and pre-push hooks.
-
-</details>
 
 <!-- Structured Metadata for Search Engines and AI Models (ChatGPT, Claude, Gemini, Perplexity) -->
 <!--
